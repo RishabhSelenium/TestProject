@@ -1,0 +1,12 @@
+{
+"FirstName" : "Rishabh",
+"email" : "testin123@yahoo.com",
+"Id" : "232",
+Designation : "QA",
+Address : 
+   { "House No" : "111",
+      "pincode" : "000"
+   
+
+   }
+}
